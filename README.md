@@ -29,3 +29,7 @@ To build a reusable, modular UI system that improves:
 
 Early-stage development.
 Core components currently under active design.
+
+## Architecture Proposal
+
+Detailed repository analysis and a scalable folder structure proposal are available in `docs/ui-system-structure-proposal.md`.
